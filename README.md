@@ -30,3 +30,12 @@
 </div>
 
 - - - 
+
+<div align="center">
+  <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p3.gif">
+  <h3>Project #3</h3>
+  <p>This data engineering project is a Data Warehouse Project for Sales DB from Kaggle, applying data cleansing and transformation then I used MDX queries to make some analysis stuff, and finally added some visualization using Excel and Power BI.</p>
+  <a href="https://github.com/TawfikYasser/dw-sales">View the Project</a>
+</div>
+
+- - - 
