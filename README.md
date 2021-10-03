@@ -39,3 +39,12 @@
 </div>
 
 - - - 
+
+<div align="center">
+  <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p4.gif">
+  <h3>Project #4</h3>
+  <p>This data engineering project is a Data Integration project using Talend Open Studio for Data Integration between CSV files and SQL Server Management Studio, the project was to load the CSV files after applying some ETL into a database in SSMS.</p>
+  <a href="https://www.upwork.com/jobs/~0100c266ac06e9fbf5">View the Project</a>
+</div>
+
+- - - 
