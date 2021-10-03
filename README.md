@@ -17,7 +17,16 @@
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p1.gif">
   <h3>Project #1</h3>
   <p>This data engineering project is a POC for data quality process for fixing data quality dimensions such as Anomaly Detection, Completeness, Accuracy, Consistency, Validity and Uniqueness. and in this project we're using Talend ETL processes to detect and fix the issues then we're using Power BI for Dashboard.</p>
-  <a href="">PROJECT LINK</a>
+  <a href="">View the Project</a>
+</div>
+
+- - - 
+
+<div align="center">
+  <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p2.gif">
+  <h3>Project #2</h3>
+  <p>This data engineering project is a Data Warehouse Project using Talend Open Studio for Data Integration, is was about creating a data warehouse for a Football dataset which in SQLite files, applying ETL, and finally visualizations using Power BI.</p>
+  <a href="https://github.com/TawfikYasser/TalendDI-Data-Warehouse">View the Project</a>
 </div>
 
 - - - 
