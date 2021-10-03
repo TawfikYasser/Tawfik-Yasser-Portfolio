@@ -57,3 +57,13 @@
 </div>
 
 - - - 
+
+
+<div align="center">
+  <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p6.gif">
+  <h3>Project #6</h3>
+  <p>This data engineering project is a database related project, it concerns with creating MySQL stored objects such as (Stored Procedures, Triggers, and User-Defined Functions), the database contains 5 tables about student management system.</p>
+  <a href="https://www.upwork.com/freelancers/~0153b17a33b0226c96">View the Project</a>
+</div>
+
+- - - 
