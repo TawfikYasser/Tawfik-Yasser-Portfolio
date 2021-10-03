@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/PortfolioHeader.gif">
-  <h1>Tawfik Yasser Portfolio</h1>
+  <h1>Tawfik Yasser's Portfolio</h1>
 </div>
 
 - - -
