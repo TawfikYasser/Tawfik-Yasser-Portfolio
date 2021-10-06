@@ -17,7 +17,7 @@
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p1.gif">
   <h3>Project #1</h3>
   <p>This data engineering project is a POC for data quality process for fixing data quality dimensions such as Anomaly Detection, Completeness, Accuracy, Consistency, Validity and Uniqueness. and in this project we're using Talend ETL processes to detect and fix the issues then we're using Power BI for Dashboard.</p>
-  <a href="">View the Project</a>
+  <a href="https://www.upwork.com/jobs/~01859e92159a239ea9">View the Project</a>
 </div>
 
 - - - 
