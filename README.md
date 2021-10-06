@@ -17,7 +17,7 @@
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p1.gif">
   <h3>Project #1</h3>
   <p>This data engineering project is a POC for data quality process for fixing data quality dimensions such as Anomaly Detection, Completeness, Accuracy, Consistency, Validity and Uniqueness. and in this project we're using Talend ETL processes to detect and fix the issues then we're using Power BI for Dashboard.</p>
-  <a href="https://www.upwork.com/jobs/~01859e92159a239ea9">View the Project</a>
+  <a href="https://www.upwork.com/jobs/~01859e92159a239ea9">View the Project (Upwork)</a>
 </div>
 
 - - - 
@@ -44,7 +44,7 @@
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p4.gif">
   <h3>Project #4</h3>
   <p>This data engineering project is a Data Integration project using Talend Open Studio for Data Integration between CSV files and SQL Server Management Studio, the project was to load the CSV files after applying some ETL into a database in SSMS.</p>
-  <a href="https://www.upwork.com/jobs/~0100c266ac06e9fbf5">View the Project</a>
+  <a href="https://www.upwork.com/jobs/~0100c266ac06e9fbf5">View the Project (Upwork)</a>
 </div>
 
 - - - 
@@ -63,7 +63,7 @@
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p6.gif">
   <h3>Project #6</h3>
   <p>This data engineering project is a database related project, it concerns with creating MySQL stored objects such as (Stored Procedures, Triggers, and User-Defined Functions), the database contains 5 tables about student management system.</p>
-  <a href="https://www.upwork.com/freelancers/~0153b17a33b0226c96">View the Project</a>
+  <a href="https://www.upwork.com/freelancers/~0153b17a33b0226c96">View the Project (Upwork)</a>
 </div>
 
 - - - 
