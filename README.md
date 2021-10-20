@@ -49,9 +49,19 @@
 
 - - - 
 
+
+<div align="center">
+  <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p7.gif">
+  <h3>Project #5</h3>
+  <p>This data engineering project is an ETL project using Talend Open Studio to clean and change dataset of LinkedIn into another format, used User Routines and tMap component.</p>
+  <a href="https://www.upwork.com/jobs/Talend-ETL-Expert_~012bb8a9e8e0d6f913">View the Project (Upwork)</a>
+</div>
+
+- - - 
+
 <div align="center">
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p5.gif">
-  <h3>Project #5</h3>
+  <h3>Project #6</h3>
   <p>This data engineering project is a Python API and Scraping stage to get companies data from stackoverflow.com then make it available for public use using an API, data stored on SQLite db and the API hosted on heroku.</p>
   <a href="https://github.com/TawfikYasser/delog/tree/main/Company-Project">View the Project</a>
 </div>
@@ -61,7 +71,7 @@
 
 <div align="center">
   <img src="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio/blob/main/p6.gif">
-  <h3>Project #6</h3>
+  <h3>Project #7</h3>
   <p>This data engineering project is a database related project, it concerns with creating MySQL stored objects such as (Stored Procedures, Triggers, and User-Defined Functions), the database contains 5 tables about student management system.</p>
   <a href="https://www.upwork.com/freelancers/~0153b17a33b0226c96">View the Project (Upwork)</a>
 </div>
